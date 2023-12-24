@@ -1,5 +1,5 @@
 // services/api.js
-const BASE_URL = 'https://fog-test-round2-backend.vercel.app' // Replace with your backend server URL
+const BASE_URL = 'https://fog-round-2-backend.vercel.app' // Replace with your backend server URL
 
 const api = {
    async getInitialGrid() {
